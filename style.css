@@ -157,15 +157,13 @@ body{
 }
 /*-------------what i do-----------*/
 
-.expertise{
-    border: 1px solid black;
 
-}
 
 .icons {
     
 }
 /*-------------work inquuiry-----------*/
+
 .work-inquiry{
     
     border-radius: 30px;
@@ -174,7 +172,7 @@ body{
     margin-left: 15%;
     background: url("images/Group_33094_1.png");
     background-size: cover;
-    margin-top: 200px;
+    margin-top: 160px;
     
 
 }
