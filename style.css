@@ -37,6 +37,7 @@ body{
     padding-top: 20px;
     font-size: 40px;
     line-height: 40px;
+    margin-bottom: 40px;
     
 
 }
@@ -142,6 +143,7 @@ body{
     float: left;
     margin-left: 73px;
     margin-bottom: 20px;
+    color:#363958;
     
 }
 
@@ -159,9 +161,7 @@ body{
 
 
 
-.icons {
-    
-}
+
 /*-------------work inquuiry-----------*/
 
 .work-inquiry{
